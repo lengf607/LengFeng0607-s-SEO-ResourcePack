@@ -1,1 +1,1 @@
-a project created by LengFeng0607
+a resource pack created by LengFeng0607
